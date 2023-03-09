@@ -1,5 +1,7 @@
 # nodejs-chat-app
 
+[Give it a try!](https://chatapp-6cjb.onrender.com/).
+
 # Technologies
 - HTML
 - CSS
